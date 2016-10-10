@@ -45,6 +45,7 @@ function three () {
 
   // Finally, we add one to make the colour white again
   three.addEventListener('mouseleave', makeWhite)
+}
 // CREATE FUNCTION four HERE
 
 // Changes the background color of event's target
